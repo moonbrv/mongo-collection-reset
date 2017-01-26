@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Descent: Journeys in the Dark Second Edition",
+    "matchtag": "descent",
+    "difficulty": 3,
+    "genres": [
+      "adventure",
+      "cooperative",
+      "fantasy",
+      "dungeon"
+    ],
+    "price": 79.95,
+    "quantity": 2,
+    "type": ["game-base"],
+    "avgtime": "2 hours",
+    "minage": 14,
+    "cover": "https://images-cdn.fantasyflightgames.com/filer_public/ec/c4/ecc4f0bd-5a19-4e5e-93cd-4ce67a502c65/dj01.png",
+    "images": [
+      "https://images-cdn.fantasyflightgames.com/filer_public/43/0f/430faad9-c3d0-4522-8883-19a582a2acf7/dj01_layout.png",
+      "https://images-cdn.fantasyflightgames.com/filer_public/be/52/be5260fa-eb24-4271-b37f-b1d8e51ec765/dj01_fan.png",
+      "https://images-cdn.fantasyflightgames.com/filer_public/48/6b/486b3312-9dce-46b8-afe0-094320341c43/dj01_plastic.png"
+    ],
+    "description": "Descent: Journeys in the Dark Second Edition is a board game in which one player takes on the role of the treacherous overlord, and up to four other players take on the roles of courageous heroes. Featuring double-sided modular board pieces, countless hero and skill combinations, and an immersive story-driven campaign, Descent: Journeys in the Dark Second Edition transports heroes to a vibrant fantasy realm where they must stand together against an ancient evil.\nThis updated version of the classic board game of dungeon-delving adventure features a host of enhancements, including new heroes and monsters, streamlined rules, a class-based hero system, campaign play, and much more.",
+    "contain": [
+      "A rulebook and quest guide",
+      "Eight hero figures and 38 monster figures",
+      "Nine custom dice",
+      "Nearly 250 cards",
+      "48 Map tiles",
+      "Over 150 tokens"
+    ],
+    "company": "Fantasy Flight Games",
+    "homepage": "https://www.fantasyflightgames.com/en/products/descent-journeys-in-the-dark-second-edition/"
+  },
+  {
+    "title": "Descent: Second Edition Conversion Kit",
+    "price": 29.95,
+    "quantity": 0,
+    "type": ["game-accessories"],
+    "avgtime": "2 hours",
+    "minage": 14,
+    "cover": "https://images-cdn.fantasyflightgames.com/filer_public/51/dd/51dd158f-8b36-467f-8a9f-018806aee3b4/dj02_main.png",
+    "images": [
+      "http://boardgaming.com/wp-content/uploads/2012/07/Descent-conversion-kit-contents.jpg",
+      "http://www.nohighscores.com/wp-content/uploads/2012/10/dck02.jpg"
+    ],
+    "description": "The Descent: Journeys in the Dark Second Edition Conversion Kit includes everything you need to transfer your first edition heroes and monsters to second edition.\nWith Second Edition-compatible cards for every monster and hero ever produced (including promotional heroes!), this convenient conversion kit is an indispensable tool. So whether you want to bring your extensive Descent collection with you on new adventures, or you’ve got a favorite hero that you choose every time, we’ve got you covered.",
+    "contain": [
+    ],
+    "company": "Fantasy Flight Games",
+    "homepage": "https://www.fantasyflightgames.com/en/products/descent-journeys-in-the-dark-second-edition/products/conversion-kit/"
+  },
+  {
+    "title": "Dice Pack",
+    "matchtag": "descent",
+    "price": 9.95,
+    "quantity": 10,
+    "type": ["game-accessories"],
+    "cover": "https://images-cdn.fantasyflightgames.com/filer_public/d8/ef/d8ef8e9f-9283-4ba6-97aa-e457214dbd10/dj08_main.png",
+    "description": "Whether you’re unraveling the plot of a treacherous ruler, sending a Wyrm Queen back to her subterranean slumber, searching for treasure amongst sun-scorched ruins, or embarking on countless other adventures, you don’t want to be slowed down by a shortage of your most basic necessities. Keep the focus on the quest with extra dice!\nThe Descent Dice Pack is an accessory for Descent: Journeys in the Dark Second Edition. Featuring all nine of the custom dice found in the Second Edition base game, the Descent Dice Pack will help you defend (or destroy) Terrinoth with a new level of convenience.",
+    "contain": [
+      "1 blue Attack die",
+      "2 red Power dice",
+      "2 yellow Power dice",
+      "1 brown Deffence die",
+      "2 grey Deffence dice",
+      "1 black Deffence die"
+    ],
+    "company": "Fantasy Flight Games",
+    "homepage": "https://www.fantasyflightgames.com/en/products/descent-journeys-in-the-dark-second-edition/products/dice-pack/"
+  }
+]
