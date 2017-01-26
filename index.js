@@ -1,6 +1,7 @@
 import mongoose from 'mongoose'
+import colors from 'colors'
 import createLogger from './utils/custromLog'
-import games from './utils/games.json'
+import data from './utils/games.json'
 import {COLLECTION_NAME} from './utils/options'
 import Product from './utils/model'
 import db from './utils/dbConnection'
@@ -8,7 +9,7 @@ import db from './utils/dbConnection'
 mongoose.Promise = Promise
 let COUNTER = 0
 const log = createLogger()
-const data = [...games, ...games, ...games, ...games]
+
 log(`games total: ${data.length}`, 'red')
 
 const insertions = data.forEach(x => {
@@ -24,7 +25,8 @@ db.collections[`${COLLECTION_NAME}s`].drop(() => {
 
   Promise.all([insertions]).then((values) => {
     db.close(() => {
-      console.log(`WAS INSERTED ${COUNTER}`)
+      const MESSAGE = (COUNTER === data.length) ? `All data was added to DB successfuly` : `ERROR: ${data.length - COUNTER} missing pieces of data`
+      console.log(colors.red.bold(`\n${MESSAGE}\n`))
       log(`close database`)
     })
   })
