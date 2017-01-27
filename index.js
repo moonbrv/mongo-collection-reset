@@ -15,12 +15,12 @@ let COUNTER = 0
 // create function custrom logger, that log only in development
 const log = createLogger()
 
-log(`games total: ${data.length}`, 'red')
+log(`Products total: ${data.length}\n`, 'red')
 
-const insertions = data.map(x => new Product(Object.assign({}, x))
+const insertions = data.map(product => new Product(product)
 .save((err) => {
     if (err) return console.error(err)
-    COUNTER += 1
+    COUNTER++
   })
 )
 
