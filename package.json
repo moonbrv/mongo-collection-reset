@@ -1,6 +1,6 @@
 {
   "name": "mongo-collection-reset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset chosen collection on mongodb and insert prepared array of data, for chosen schema",
   "main": "index.js",
   "scripts": {
